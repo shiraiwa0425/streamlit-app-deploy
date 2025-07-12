@@ -27,6 +27,7 @@ python-dateutil==2.9.0.post0
 python-dotenv
 langchain
 langchain-openai
+langchain-community
 pytz==2025.2
 referencing==0.36.2
 requests==2.32.4
